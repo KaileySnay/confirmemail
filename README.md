@@ -19,7 +19,7 @@ Adds the confirm e-mail  address field to the registration screen.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/confirmemail/workflows/Tests/badge.svg)](https://github.com/KaileySnay/confirmemail/actions)
+master: [![Build Status](https://github.com/kaileysnay/confirmemail/workflows/Tests/badge.svg)](https://github.com/kaileysnay/confirmemail/actions)
 
 ## License
 
